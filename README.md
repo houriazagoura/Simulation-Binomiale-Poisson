@@ -98,7 +98,7 @@ Avec `n = 10000`, l’alignement entre l’histogramme des pertes normalisées e
 
 Ce projet met en évidence une idée simple mais puissante : derrière des formules abstraites comme la loi binomiale, la loi de Poisson, la loi des grands nombres ou le TCL, il y a une réalité concrète et intuitive.  
 En simulant, on voit que la théorie n’est pas un cadre lointain réservé aux mathématiciens : elle décrit avec précision des phénomènes aléatoires du quotidien de la finance et du risque de crédit.  
-En d’autres termes, la simulation n’a pas servi ici à “illustrer” la théorie, mais à la **rendre tangible et vivante**, à montrer comment un concept probabiliste devient un outil opérationnel de compréhension et de décision.
+En d’autres termes, la simulation n’a pas servi ici à “illustrer” la théorie, mais à la rendre tangible et vivante, à montrer comment un concept probabiliste devient un outil opérationnel de compréhension et de décision.
 
 
 
